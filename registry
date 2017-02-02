@@ -1,0 +1,2 @@
+# nicename  protocol:URL                                       description
+rocketchat  git:https://github.com/drunner/rocketchat.git      "Rocket.chat server"
