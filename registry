@@ -1,3 +1,4 @@
-# nicename  protocol URL                                          description
-rocketchat  git      https://github.com/j842/rocketchat.git       "Rocket.chat server"
+# nicename  GitURL                                       description
+rocketchat  https://github.com/j842/rocketchat.git       "Rocket.chat server"
+minecraft   https://github.com/j842/minecraft.git        "Minecraft server"
    
