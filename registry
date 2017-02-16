@@ -1,4 +1,5 @@
 # nicename  GitURL                                       description
 rocketchat  https://github.com/j842/rocketchat.git       "Rocket.chat server"
 minecraft   https://github.com/j842/minecraft.git        "Minecraft server"
-   
+minimalexample https://github.com/drunner/minimalexample.git "Minimal example of a dService"
+
